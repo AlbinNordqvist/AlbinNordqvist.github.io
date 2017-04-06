@@ -1,0 +1,3 @@
+git add [ändrade filer]
+git commit
+git push -u origin master
